@@ -1,5 +1,7 @@
 An online store website created for a needed school project, the site includes the mosaic such as adding, modifying and deleting products as Admin, buying, adding to cart, adding to favorites, products from the site. It is possible to create accounts and log into them. The site has a database.
+<br>
 Here's what the site looks like:
+<br>
 <img src="./README_images/img (1).png">
 <img src="./README_images/img (2).png">
 <img src="./README_images/img (3).png">
