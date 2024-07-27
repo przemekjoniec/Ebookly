@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Cormorant:ital,wght@0,300;1,300&family=Montserrat:wght@300&family=Poppins:wght@200;300&family=Unbounded&display=swap');
+body {
+	background-color: #e5e5e5;
+}
+
+.wrapper {
+	overflow-x: hidden;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.main {
+	width: 100%;
+	height: 90vh;
+}
+
+.left-div {
+	float: left;
+	width: 40%;
+	height: 90vh;
+}
+
+.right-div {
+	float: left;
+	width: 60%;
+	height: 90vh;
+}
+.left-div img {
+	width: 100%;
+	height: 89vh;
+	object-fit: contain;
+}
+span {
+	font-family: 'Poppins', sans-serif;
+}
+
+.name-div,
+.category-div,
+.price-div,
+.icon-div,
+.rating-div,
+.author-div,
+.disc-div,
+.amount-div {
+	width: 100%;
+	padding: 2vh 0vh 2vh 0vh;
+}
+.icon-div {
+	font-size: 16px;
+	font-family: 'Poppins', sans-serif;
+}
+.disc-div {
+	width: 100%;
+}
+.amount-div {
+	width: 100%;
+}
+/* Dodatkowe style dla kolumny z informacjami */
+.name-div {
+	font-size: 48px;
+}
+.author-div {
+	font-size: 36px;
+}
+
+.category-div {
+	font-size: 24px;
+}
+
+.price-div {
+	font-size: 36px;
+}
+i:hover {
+	transition: 0.3s;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
