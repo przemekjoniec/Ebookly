@@ -1,4 +1,4 @@
-An online store website created for a needed school project, the site includes the mosaic such as adding, modifying and deleting products as Admin, buying, adding to cart, adding to favorites, products from the site. It is possible to create accounts and log into them. The site has a database.
+An online store site created for a school project, the site includes elements such as adding, modifying and deleting products as Admin, buying, adding to cart, adding to favorites, products from the site as Customer. It is possible to create accounts and log in to them. The site has a database.
 <br>
 Here's what the site looks like:
 <br>
